@@ -1,0 +1,72 @@
+Title-Online Ticket Booking System
+
+Introduction- The Online Ticket Booking System is a web-based application that allows users to search , book, and manage tickets for different mode of transport.
+                        The system aim is provide user friendly platform to users for booking tickets of TRAIN ,BUS,AIRLINE.
+
+
+Objectives- The Online Ticket Booking System provide suitable functions for booking tickets.
+
+Definitions:    SRS- Software Requirement Specifications
+
+Functional Requirements:
+           1:User Registration - User should be create account by providing email,password. It is use for log in on system.System should be validate the user's email                                                 and passwoed before log in. 
+          2:Searching- User should be search for train ,bus,airline timing and check their availabilty of seats.
+          3:Seat Selection And Booking:Users should be able to select seats for Travelling from a seating layout .The system should show the availability of                           seats.   Users should be able to select multiple seats for booking.
+          4:Online Payement:   Users should be  use the secure payement gateway. users should be select the payement method of UPI,NET                                                 BAKING,DEBIT/CREDIT CARD. The System should be provide the user confirmation details.
+          5:Ticket cancellation and Refund management:User should be cancel their tickets before booking date.The system should be refund amount to user's                                                account                                    
+          6:Admin Management:Admines should be manage booking and user profiles.it should be generate tickets.
+
+Non Functional Requirements: 
+              1:Security; The payement gateway should be secured.Password can not be change except user.
+              2:Usability:The system should be user friendly.Response Timing of booking,cancel sholud be fast.
+              3:Performance:System should be handled by  multiple user  at a time so it cant be reach site.
+              4:Realibilty:System should be available 24 hrs.Users can easily handle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
